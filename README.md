@@ -1,4 +1,4 @@
-# todo-app
+# "Whiteboard!"
 
 ## This is my to-do app that I created using HTML, Bootstrap5, and JavaScript
 
